@@ -1,0 +1,7 @@
+{
+  "input" : {
+    "item": "minecraft:redstone"
+  },
+  "outputItem": "minecraft:cobblestone",
+  "outputAmount": "20"
+}
